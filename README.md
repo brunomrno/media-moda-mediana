@@ -1,6 +1,6 @@
 # Calcular Media, Moda e Mediana
 
-Você recebeu a tarefa de criar uma classe utilitária que poderá ser utilizada em vários pontos de sua aplicação. Essa classe deve conter métodos para realizar alguns cálculos comuns em análises estatísticas.
+Criar uma classe utilitária que poderá ser utilizada em vários pontos de sua aplicação. Essa classe deve conter métodos para realizar alguns cálculos comuns em análises estatísticas.
 A versão inicial de sua classe deve conter a implementação dos seguintes métodos:
 
 ## Média:
@@ -25,14 +25,3 @@ Para arrays com quantidade par de elementos, não haverá um único valor no mei
 **Exemplo:**
 Para um array [1,2,3,4,5,6,7], a mediana é representada pelo número 4 que se encontra exatamente no meio da distribuição.
 Para um array [1,4,6,10,12,14], a mediana é definida pelo cálculo da média entre 6 e 10, o que significa que teremos: (6 + 10) / 2 = 8
-
-## Requisitos
-Para este desafio você precisará:
-
-- Java 8++
-
-Para instalar no MacOS, usando o HomeBrew, basta executar:
-
-    brew cask install java
-
-Para instalar no Linux e no Windows, confira os links na seção de conteúdo.
